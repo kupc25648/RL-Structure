@@ -28,3 +28,7 @@ https://colab.research.google.com
 <br><img src="src/handout02.jpg"><br/>
 <br><img src="src/handout03.jpg"><br/>
 <br><img src="src/handout04.jpg"><br/>
+
+<br>Contact<br/>
+<br>Mail: kupc25648@hotmail.com<br/>
+<br>Linkedin: https://www.linkedin.com/in/chi-tathon-kupwiwat-72164b105/<br/>
