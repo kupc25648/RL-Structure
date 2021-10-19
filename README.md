@@ -20,3 +20,7 @@ Book : https://www.dropbox.com/s/nrvvgkae2s5n0m8/CKupwiwat_%E8%AB%96%E6%96%87.pd
 Handout : https://www.dropbox.com/s/ef4nz8xxrdb243e/00_%E5%A4%A7%E5%AD%A6%E9%99%A2%E6%A2%97%E6%A6%82%E9%9B%86%E5%9F%B7%E7%AD%86%E8%A6%81%E9%A0%98_CKupwiwat.pdf?dl=0
 (Both are in Japanese)
 
+<img src="src/handout01.jpg">
+<img src="src/handout02.jpg">
+<img src="src/handout03.jpg">
+<img src="src/handout04.jpg">
