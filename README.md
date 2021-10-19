@@ -30,5 +30,6 @@ https://colab.research.google.com
 <br><img src="src/handout04.jpg"><br/>
 
 <br>Contact<br/>
-<br>Mail: kupc25648@hotmail.com<br/>
+<br>Personal email: kupc25648@hotmail.com<br/>
+<br>University email: kupwiwat.chitathon.73c@st.kyoto-u.ac.jp<br/>
 <br>Linkedin: https://www.linkedin.com/in/chi-tathon-kupwiwat-72164b105/<br/>
