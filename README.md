@@ -3,7 +3,7 @@
 <br>Reinforcement learning for frame structure shape generation using reinforcement learning.<br/>
 <br>These programs are extended part of my master thesis from Graduate School of Engineering, Tokai Univ. Japan 2019-2021.<br/>
 
-<br>In this research, we train muitiple tpye of reinforcement learning agent (Q-Learning, Actor-Critic, DDPG, MADDGP) for<br/>
+<br>In this research, we train muitiple type of reinforcement learning agents (Q-Learning, Actor-Critic, DDPG, MADDGP) for<br/>
 
 <br>1. frame structural shape generation to minimize strain energy.<br/>
 <br>2. minimal surface generation to minimize the domain surface area.<br/>
