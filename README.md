@@ -11,6 +11,7 @@ In this research, we train muitiple tpye of reinforcement learning agent (Q-Lear
 After some training agents will be able to perform these tasks.
 
 I make this program for my juniors to do their research using google-colab.
+\br
 https://colab.research.google.com
 
 please see manual folder for more detail
